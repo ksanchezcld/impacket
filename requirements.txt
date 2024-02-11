@@ -4,3 +4,4 @@ pyOpenSSL>=0.16.2
 ldap3>=2.5
 ldapdomaindump
 flask>=1.0
+dnspython>=2.6.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
