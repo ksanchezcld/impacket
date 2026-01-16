@@ -4,3 +4,4 @@ pyOpenSSL>=0.16.2
 ldap3>=2.5
 ldapdomaindump
 flask>=1.0
+werkzeug>=3.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
